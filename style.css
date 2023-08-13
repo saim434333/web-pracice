@@ -1,0 +1,92 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+section{
+    height: 500px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    background-position: 0%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 4%;
+    padding: 3;
+}
+h2{
+    font-size: 40px;
+}
+span{
+    color: orange;
+    font-size: 30px;
+}
+.web-color{
+    color: cadetblue;
+}
+h4{
+    font-size: 15px;
+}
+.half-width img{
+    width: 92%;
+}
+p{
+    text-align: justify;
+    color: dimgray;
+}
+.link-hire-me{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(salmon, tomato);
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-weight: 700
+}
+#first-img{
+    margin-left: 4%;
+}
+.become{
+    font-size: 25px;
+}
+.resume{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(salmon, tomato);
+    padding: 2%;
+    margin: 3;
+    border-radius: 4px;
+    font-weight: 700;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 110px;
+}
+h3{
+    font-size: 25px;
+    color: orange;
+}
+.experience-area{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+#line-color{
+    border-left: 7px solid;
+    border-image:  linear-gradient(180deg,lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#color-line{
+    border-left: 7px solid ;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.exp-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 60px;
+}
